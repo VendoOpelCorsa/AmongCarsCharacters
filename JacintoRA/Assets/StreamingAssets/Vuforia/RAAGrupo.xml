@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="red" size="1.000000 1.000000" />
+    <ImageTarget name="purple" size="1.000000 1.000000" />
+    <ImageTarget name="pink" size="1.000000 1.000000" />
+    <ImageTarget name="orange" size="1.000000 1.000000" />
+    <ImageTarget name="green" size="1.000000 1.000000" />
+    <ImageTarget name="cyan" size="1.000000 1.000000" />
+    <ImageTarget name="anil" size="1.000000 1.000000" />
+    <ImageTarget name="morado" size="1.000000 1.027617" />
+    <ImageTarget name="anyil" size="1.000000 1.064538" />
+    <ImageTarget name="rosita" size="1.000000 1.073825" />
     <ImageTarget name="jacinto1" size="1.000000 1.902552" />
     <ImageTarget name="turquesa" size="1.000000 1.000000" />
     <ImageTarget name="verdeMuerto" size="1.000000 1.727823" />
